@@ -16,8 +16,6 @@ Rust C++ , Ratatui TODO Windows
 * windows11
 
 ***
-
-***
 ## image
 
 * TODO APP
