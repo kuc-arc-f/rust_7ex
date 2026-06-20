@@ -1,8 +1,8 @@
-﻿# rata_rag_1
+﻿# rata_rag_2
 
  Version: 0.9.1
 
- date    : 2026/06/15
+ date    : 2026/06/20
 
  update :
 
